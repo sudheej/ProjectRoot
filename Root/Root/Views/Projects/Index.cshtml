@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Root.Models.Projects>
+@using Root.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of Projects</h2>
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+           Project Name
+        </th>
+        <th>
+           Project Manager
+        </th>
+        <th>
+           Department
+        </th>
+        <th>
+           Cost Code
+        </th>
+    </tr>
+    @foreach (Projects cproject in @Model)
+    {
+
+        <tr>
+            <td>
+               @cproject.ProjectId
+            </td>
+            <td>
+                @Html.ActionLink(cproject.ProjectName, "getProject", new { id = cproject.ProjectId })
+            </td>
+            <td>
+                @cproject.ProjectManager
+            </td>
+            <td>
+                @cproject.Department
+            </td>
+            <td>
+                @cproject.CostCode
+            </td>
+        </tr>
+
+    }
+</table>
+

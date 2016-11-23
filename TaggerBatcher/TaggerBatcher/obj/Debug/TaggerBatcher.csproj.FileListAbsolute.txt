@@ -1,0 +1,11 @@
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.exe.config
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.csprojResolveAssemblyReference.cache
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.exe
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.pdb
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.csproj.TaggerBatcher.exe.config
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.exe
+C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.pdb

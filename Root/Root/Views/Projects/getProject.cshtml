@@ -1,0 +1,96 @@
+﻿@model Root.Models.Projects
+@{
+    ViewBag.Title = "getProject";
+
+}
+
+    
+            <br />
+<h4>Project Sentiment</h4>
+<img src="@Url.Action("DisplayProjectChart","Reports")" />
+
+            <div class="panel panel-primary" style="float:right">
+                <div class="panel-heading">
+                    <h3 class="panel-title">@Model.ProjectName</h3>
+                </div>
+                <div class="panel-body">
+                    @Model.ProjectManager
+                </div>
+                <div class="panel-body">
+                    <text>Department</text> @Model.Department
+                </div>
+                <div class="panel-body">
+                    <text>Cost Code</text> @Model.CostCode
+                </div>
+                <div class="panel-body">
+
+                    <div class="panel-body">
+                        @{
+
+                            int cvalue = Convert.ToInt32(@ViewData["ProjectScore"]);
+                            if (cvalue < 10)
+                            {
+                                <h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 20)
+                            {
+                                <h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 30)
+                            {
+                                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 40)
+                            {
+                                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 50)
+                            {
+                                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 60)
+                            {
+                                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 70)
+                            {
+                                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 80)
+                            {
+                                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+                            }
+                            else if (cvalue < 90)
+                            {
+                                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1>
+                            }
+                            else
+                            {
+                                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1>
+                            }
+
+
+
+                        }
+                    </div>
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br /><br /><br />
+            <br />

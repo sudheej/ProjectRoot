@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Root.Models.Projects>
+@using Root.Models;
+<br />
+    <fieldset>
+        
+        <legend>Insert Client</legend>
+        @using (Ajax.BeginForm("addClientResult", "Clients",
+                                                new AjaxOptions { UpdateTargetId = "divInterestDeatils" }, new { @class = "form-horizontal" }))
+        {
+            <div id="divInterestDeatils"></div>
+            
+                    @Html.Label("Name", null, new { id = "lblName", @class = "col-lg-2 control-label" })
+                    @Html.TextBox("txtName", null,new { id = "txtName", @class = "form-control" })
+               <br />
+                    @Html.Label("Email", null, new { id = "lblEmail", @class = "col-lg-2 control-label" })
+                    @Html.TextBox("txtEmail", null, new { id = "txtEmail", @class = "form-control" })
+               <br />
+                    @Html.Label("Project ID", null, new { id = "lblProjectID", @class = "col-lg-2 control-label" })
+                    @Html.TextBox("txtProjectId", null, new { id = "txtProjectId", @class = "form-control" })
+                <center><button class="btn btn-primary">Add Client</button></center>
+        }
+    </fieldset>

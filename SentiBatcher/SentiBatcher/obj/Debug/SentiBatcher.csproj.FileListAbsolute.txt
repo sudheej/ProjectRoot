@@ -1,0 +1,11 @@
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.exe.config
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.exe
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.pdb
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.csprojResolveAssemblyReference.cache
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.csproj.SentiBatcher.exe.config
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.exe
+C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.pdb

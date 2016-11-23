@@ -1,0 +1,178 @@
+﻿@model Root.Models.Clients
+
+@{
+    ViewBag.Title = "Client Details";
+}
+
+<script src="@Url.Content("~/Scripts/tagcanvas.min.js")" type="text/javascript"></script>
+<script type="text/javascript">
+      window.onload = function() {
+        try {
+          TagCanvas.Start('myCanvas','tags',{
+            textColour: '#000000',
+            outlineColour: '#ff00ff',
+            reverse: true,
+            depth: 0.8,
+            maxSpeed: 0.05
+          });
+        } catch(e) {
+          // something went wrong, hide the canvas container
+          document.getElementById('myCanvasContainer').style.display = 'none';
+        }
+      };
+</script>
+<br />
+@{
+    if (ViewData["SearchString"] != null)
+    {
+        string[] detailsbucket;
+        detailsbucket = ViewData["searchResults"].ToString().Split('|');
+        foreach (string items in detailsbucket)
+        {
+            if (items.Contains("positive"))
+            {
+            <div class="alert alert-dismissible alert-success" style="float:right">
+                <button type = "button" class="close" data-dismiss="alert">&times;</button>
+                <strong>@ViewData["SearchString"].ToString().ToUpper() :</strong>@items.ToString()
+            </div>
+            }
+            else if (items.Contains("negative"))
+            {
+            <div class="alert alert-dismissible alert-warning" style="float:right">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <strong>@ViewData["SearchString"].ToString().ToUpper() :</strong>@items.ToString()
+            </div>
+            }
+            else if (items.Contains("neutral"))
+            {
+            <div class="alert alert-dismissible alert-info" style="float:right">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <strong>@ViewData["SearchString"].ToString().ToUpper() :</strong>@items.ToString()
+            </div>
+            }
+
+        }
+   }
+}
+
+<br />
+<br />
+<div id="myCanvasContainer" style="float: left;">
+    <canvas width="500" height="500" id="myCanvas">
+        <p>Oh Canvas</p>
+    </canvas>
+</div>
+<div id="tags" style="float: left;">
+    <ul>
+        @{
+            string[] word = @ViewData["ClientTags"].ToString().Split(',');
+        }
+        @foreach (string tagie in word)
+        {
+            <li><a href="?Id=@Model.ClientId&srch=@tagie.Trim()">@tagie.Trim()</a></li>
+        }
+
+
+    </ul>
+</div>
+
+<br />
+
+<div class="panel panel-primary" style="float:right">
+    <div class="panel-heading">
+        <h3 class="panel-title">@Model.Name</h3>
+    </div>
+    <div class="panel-body">
+        @Model.Email
+    </div>
+    <div class="panel-body">
+        <text>Project Id</text> @Model.ProjectId
+    </div>
+    <div class="panel-body">
+        <text>Client Id</text> @Model.ClientId
+    </div>
+    <div class="panel-body">
+        <text>Sentiment Score</text> @ViewData["ClientScore"]
+    </div>
+ 
+
+    <div class="panel-body">
+        @{
+
+            int cvalue = Convert.ToInt32(@ViewData["ClientScore"]);
+            if (cvalue < 10)
+            {
+                <h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 20)
+            {
+                <h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 30)
+            {
+                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 40)
+            {
+                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 50)
+            {
+                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 60)
+            {
+                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1><h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 70)
+            {
+                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 80)
+            {
+                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1> <h1 style="color:lightgrey">✫</h1>
+            }
+            else if (cvalue < 90)
+            {
+                <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1>✫</h1> <h1 style="color:lightgrey">✫</h1>
+            }
+            else
+            {
+                <h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1><h1>✫</h1>
+            }
+
+
+
+        }
+    </div>
+    </div>
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

@@ -1,0 +1,16 @@
+# Map 1-based optional input ports to variables
+dataset <- maml.mapInputPort(1) # class: data.frame
+
+sentiment_label <- dataset[[1]]
+review_text <- dataset[[2]]
+
+review_text <- gsub("[^a-z]"," ",review_text,ignore.case=TRUE)
+
+#lowercase conversion
+review_text <- sapply(review_text,tolower)
+
+data.set <- as.data.frame(cbind(sentiment_label,review_text),
+    stringsAsFactors=FALSE)
+
+# Select data.frame to be sent to the output Dataset port
+maml.mapOutputPort("data.set");
