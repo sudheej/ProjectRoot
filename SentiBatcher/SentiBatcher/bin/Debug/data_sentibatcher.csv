@@ -1,100 +1,100 @@
 DateTime,clientname,email,sentimenttext
 1/10/2016 11:45,Mike Johnson,mj@johnsoncorp.com,The Mapping looks good and results are coming as expected for all reports
-1/10/2016 11:45,Mike Johnson,mj@johnsoncorp.com,Excellent work done in optimizing the BSI code in UAT31
+1/10/2016 11:45,Mike Johnson,mj@johnsoncorp.com,Excellent work done in optimizing the BSI code in UserTestServer
 1/10/2016 11:49,Mike Johnson,mj@johnsoncorp.com,Liz is delighted to see the changes that are moved to production
-1/10/2016 11:47,Mike Johnson,mj@johnsoncorp.com,John appreciated the robust support provided by LnT during BREXIT
+1/10/2016 11:47,Mike Johnson,mj@johnsoncorp.com,John appreciated the robust support provided by AjaxCorp during BREXIT
 1/10/2016 11:48,Mike Johnson,mj@johnsoncorp.com,This suport team delivers a performance of striking skill and depth for QC41 issues
 1/10/2016 11:49,Mike Johnson,mj@johnsoncorp.com,An intermittently pleasing but mostly routine effort  to maintain server health
 1/10/2016 11:50,Mike Johnson,mj@johnsoncorp.com,Fast database updates resulted in huge CPU data savings for bayer clients 
 1/10/2016 11:51,Mike Johnson,mj@johnsoncorp.com,This will unleash competitiveness within our tech teams for new work requests
 1/10/2016 11:52,Mike Johnson,mj@johnsoncorp.com,The flow was well written and delivered for tech teams
 1/10/2016 11:53,Mike Johnson,mj@johnsoncorp.com,All Payment runs submitted for todays batch is stuck
-1/10/2016 11:54,Charles Draper,charles.draper@charley.co.uk,Few services which are supposed to be running are hung due to database blocking alert in UAT31
-1/10/2016 11:55,Charles Draper,charles.draper@charley.co.uk,Teams was able to support migration and regular BAU activities in UAT31 and QC41
+1/10/2016 11:54,Charles Draper,charles.draper@charley.co.uk,Few services which are supposed to be running are hung due to database blocking alert in UserTestServer
+1/10/2016 11:55,Charles Draper,charles.draper@charley.co.uk,Teams was able to support migration and regular BAU activities in UserTestServer and QC41
 1/10/2016 11:56,Charles Draper,charles.draper@charley.co.uk,Config tool was automated and turnaround for requests was really very quick in PTE
 1/10/2016 11:57,Charles Draper,charles.draper@charley.co.uk,Sharon emphasized the need for correct data files for PTE test runs
-1/10/2016 11:58,Charles Draper,charles.draper@charley.co.uk,UAT31 had many EMER deployments today
+1/10/2016 11:58,Charles Draper,charles.draper@charley.co.uk,UserTestServer had many EMER deployments today
 1/10/2016 11:59,Charles Draper,charles.draper@charley.co.uk,Vinesh was very patient and focussed on getting client requirements for critical release in PTE
 1/10/2016 12:00,Charles Draper,charles.draper@charley.co.uk,Our efforts helped the client to engage in a contest with big players
 1/10/2016 12:01,Charles Draper,charles.draper@charley.co.uk,Nothing was overlooked for any contingency in business support plans
-1/10/2016 12:02,Charles Draper,charles.draper@charley.co.uk,Tech teams in LnT has put more efforts in migrating environments without affecting deliverables
+1/10/2016 12:02,Charles Draper,charles.draper@charley.co.uk,Tech teams in AjaxCorp has put more efforts in migrating environments without affecting deliverables
 1/10/2016 12:03,Charles Draper,charles.draper@charley.co.uk,John was not happy with the implications because of code dump errors in SIT2
 1/10/2016 12:04,Charles Draper,charles.draper@charley.co.uk,Microsoft should deliver support for existing applications related to post processing issues in SIT1
 1/10/2016 12:05,Charles Draper,charles.draper@charley.co.uk,The Batch scheduler works fine at any point of time without any bugs
 1/10/2016 12:06,Charles Draper,charles.draper@charley.co.uk,Nithya pointed out that BE 1.2  was not reccyled resulted in escalation
-1/10/2016 12:07,Linda Sharon,linda.sharon@harbour.com,DEV Teams had the opportunity to admonish support team for slow processing issues
-1/10/2016 12:08,Linda Sharon,linda.sharon@harbour.com,Support team was quick to understand rendering work done in PTE
-1/10/2016 12:09,Linda Sharon,linda.sharon@harbour.com,LnT edged other big players in use of ML learning for support activities
-1/10/2016 12:10,Linda Sharon,linda.sharon@harbour.com,Client was able to regain the lost markets in health care due to aggressive biddings in Portal applications
-1/10/2016 12:11,Linda Sharon,linda.sharon@harbour.com,LnT proposes best business ideas that can be imposed on flawed systems in Portals
-1/10/2016 12:12,Linda Sharon,linda.sharon@harbour.com,BE 1.2 environments will be retired
-1/10/2016 12:13,Linda Sharon,linda.sharon@harbour.com,Most of web.config files in SIT2 is corrupted
-1/10/2016 12:14,Linda Sharon,linda.sharon@harbour.com,No security vulenerabilities in SIT2 is fixed by deploying patches
-1/10/2016 12:15,Linda Sharon,linda.sharon@harbour.com,SIT5 thread dumps are not generated when crashed needs more attention
-1/10/2016 12:16,Linda Sharon,linda.sharon@harbour.com,The Provisioning is not happening in PTE even after multiple services are recycled
-1/10/2016 12:17,Linda Sharon,linda.sharon@harbour.com,Build team gave the wrong code for deployment resulted in OES errors in UAT1
-1/10/2016 12:18,Linda Sharon,linda.sharon@harbour.com,The SQL errors in UAT1 can be ignored which not have a impact on application
-1/10/2016 12:19,Murphy Alica,murphy.alica@citi.com,Webshere code base was found to be deleted in SIT4 needs attention
-1/10/2016 12:20,Murphy Alica,murphy.alica@citi.com,Sanjay apprised the team on new work flows for I-rule setup in Portal
-1/10/2016 12:21,Murphy Alica,murphy.alica@citi.com,There were multiple setups for websphere instances in SIT4 which lead to capricious results
-1/10/2016 12:22,Murphy Alica,murphy.alica@citi.com,Learning portals empowered support teams to govern erratic work practices
-1/10/2016 12:23,Murphy Alica,murphy.alica@citi.com,The SIT2 issues are escalated to higher managements for proper roadmap
-1/10/2016 12:24,Murphy Alica,murphy.alica@citi.com,Email remediation reduces dependences on conventional methods for all minor issues
-1/10/2016 12:25,Murphy Alica,murphy.alica@citi.com,SIT1 outages and frequent timeouts costed the client badly
-1/10/2016 12:26,Murphy Alica,murphy.alica@citi.com,The Beneficiary accounts had no impact on OFAC testing which needs to be looked on
-1/10/2016 12:27,Murphy Alica,murphy.alica@citi.com,New I-rule setup will confound the support teams with long workaround time 
-1/10/2016 12:28,Murphy Alica,murphy.alica@citi.com,All setup related errors in SIT4 converged from bad web.config file
-1/10/2016 12:29,Murphy Alica,murphy.alica@citi.com,The comments by build team is misleading the facts related to curent issues in SIT1
-1/10/2016 12:30,Murphy Alica,murphy.alica@citi.com,Steve pointed out discrepancy in data output from conventional abinitio runs
-1/10/2016 12:31,Jha Aditya,jha.aditya@citi.com,Ram Inadvertently mislead the team to deploy the changes in SIT1
-1/10/2016 12:32,Jha Aditya,jha.aditya@citi.com,The DM scripts took longer time to complete in UAT31 delayed client restoration
-1/10/2016 12:33,Jha Aditya,jha.aditya@citi.com,All Classic application errors are due to permission issue in jar files which should have been proactively looked upon by build team
-1/10/2016 12:34,Jha Aditya,jha.aditya@citi.com,All stake holders are aware of the critical UAT31 Deployment issues and is being superintended by Dave
-1/10/2016 12:35,Jha Aditya,jha.aditya@citi.com,The logs are not laconic for websphere applications which needs proper setup
-1/10/2016 12:36,Jha Aditya,jha.aditya@citi.com,Code progression is changed from SIT2 to SIT5
-1/10/2016 12:37,Jha Aditya,jha.aditya@citi.com,The search algorithm developed by LnT is super efficient and working for all client setups
-1/10/2016 12:38,Jha Aditya,jha.aditya@citi.com,All health checks in classic applications is automated and needs no manual intervention
-1/10/2016 12:39,Jha Aditya,jha.aditya@citi.com,Portal applications needs multiple batch processing to deploy the setups
-1/10/2016 12:40,Jha Aditya,jha.aditya@citi.com,The Prototype and testing results observed in UBER client runs looks good and is promising for long run
-1/10/2016 12:41,Jha Aditya,jha.aditya@citi.com,The OFAC implemenation is the biggest accomplishment for citi and LnT
-1/10/2016 12:42,John Score,johnscore@citi.com,Problem resolution and RCA's for major issues in UAT31 & PTE are identified and this effort will smoothen the deliverables of known errors
-1/10/2016 12:43,John Score,johnscore@citi.com,Why is code pointing to old version for AFRD services. The XML files provided for updation is not refelcting in UAT31 environment. Does this needs any recyles?
-1/10/2016 12:44,John Score,johnscore@citi.com,Login is not happening for all QA users  is this because of SSO enabled for this IDS ? Please check for these ID's at high priority
-1/10/2016 12:45,John Score,johnscore@citi.com,Why there is frequent reccyles and GZ requests for critical UAT1 environment at this point of time? Can't this be taken care in GZ  hours !?
-1/10/2016 12:46,John Score,johnscore@citi.com,Hello  What is the procedure to remove the ID from LDAP. I have two user ID setup in SIT2 applciations which needs your team help. Please advise.
-1/10/2016 12:47,John Score,johnscore@citi.com,Hello; Frequent time out errors are frustating!? Is this because of any high load in server at that time or if any server is brought out of rotation. Expecting team to raise a problem ticket and come up with good analysis.
+1/10/2016 12:07,Linda Sharon,linda.sharon@bour.com,DEV Teams had the opportunity to admonish support team for slow processing issues
+1/10/2016 12:08,Linda Sharon,linda.sharon@bour.com,Support team was quick to understand rendering work done in PTE
+1/10/2016 12:09,Linda Sharon,linda.sharon@bour.com,AjaxCorp edged other big players in use of ML learning for support activities
+1/10/2016 12:10,Linda Sharon,linda.sharon@bour.com,Client was able to regain the lost markets in health care due to aggressive biddings in Acme Webspring applications
+1/10/2016 12:11,Linda Sharon,linda.sharon@bour.com,AjaxCorp proposes best business ideas that can be imposed on flawed systems in Acme Websprings
+1/10/2016 12:12,Linda Sharon,linda.sharon@bour.com,BE 1.2 environments will be retired
+1/10/2016 12:13,Linda Sharon,linda.sharon@bour.com,Most of web.config files in SIT2 is corrupted
+1/10/2016 12:14,Linda Sharon,linda.sharon@bour.com,No security vulenerabilities in SIT2 is fixed by deploying patches
+1/10/2016 12:15,Linda Sharon,linda.sharon@bour.com,SIT5 thread dumps are not generated when crashed needs more attention
+1/10/2016 12:16,Linda Sharon,linda.sharon@bour.com,The Provisioning is not happening in PTE even after multiple services are recycled
+1/10/2016 12:17,Linda Sharon,linda.sharon@bour.com,Build team gave the wrong code for deployment resulted in OES errors in UAT1
+1/10/2016 12:18,Linda Sharon,linda.sharon@bour.com,The SQL errors in UAT1 can be ignored which not have a impact on application
+1/10/2016 12:19,Murphy Alica,murphy.alica@cbourin.com,Webshere code base was found to be deleted in SIT4 needs attention
+1/10/2016 12:20,Murphy Alica,murphy.alica@cbourin.com,Sanjay apprised the team on new work flows for I-rule setup in Acme Webspring
+1/10/2016 12:21,Murphy Alica,murphy.alica@cbourin.com,There were multiple setups for websphere instances in SIT4 which lead to capricious results
+1/10/2016 12:22,Murphy Alica,murphy.alica@cbourin.com,Learning Acme Websprings empowered support teams to govern erratic work practices
+1/10/2016 12:23,Murphy Alica,murphy.alica@cbourin.com,The SIT2 issues are escalated to higher managements for proper roadmap
+1/10/2016 12:24,Murphy Alica,murphy.alica@cbourin.com,Email remediation reduces dependences on conventional methods for all minor issues
+1/10/2016 12:25,Murphy Alica,murphy.alica@cbourin.com,SIT1 outages and frequent timeouts costed the client badly
+1/10/2016 12:26,Murphy Alica,murphy.alica@cbourin.com,The Beneficiary accounts had no impact on OFAC testing which needs to be looked on
+1/10/2016 12:27,Murphy Alica,murphy.alica@cbourin.com,New I-rule setup will confound the support teams with long workaround time 
+1/10/2016 12:28,Murphy Alica,murphy.alica@cbourin.com,All setup related errors in SIT4 converged from bad web.config file
+1/10/2016 12:29,Murphy Alica,murphy.alica@cbourin.com,The comments by build team is misleading the facts related to curent issues in SIT1
+1/10/2016 12:30,Murphy Alica,murphy.alica@cbourin.com,Steve pointed out discrepancy in data output from conventional abinitio runs
+1/10/2016 12:31,Tom Cook,tom.cook@cookingunlimited.com,Ram Inadvertently mislead the team to deploy the changes in SIT1
+1/10/2016 12:32,Tom Cook,tom.cook@cookingunlimited.com,The DM scripts took longer time to complete in UserTestServer delayed client restoration
+1/10/2016 12:33,Tom Cook,tom.cook@cookingunlimited.com,All Classic application errors are due to permission issue in jar files which should have been proactively looked upon by build team
+1/10/2016 12:34,Tom Cook,tom.cook@cookingunlimited.com,All stake holders are aware of the critical UserTestServer Deployment issues and is being superintended by Dave
+1/10/2016 12:35,Tom Cook,tom.cook@cookingunlimited.com,The logs are not laconic for websphere applications which needs proper setup
+1/10/2016 12:36,Tom Cook,tom.cook@cookingunlimited.com,Code progression is changed from SIT2 to SIT5
+1/10/2016 12:37,Tom Cook,tom.cook@cookingunlimited.com,The search algorithm developed by AjaxCorp is super efficient and working for all client setups
+1/10/2016 12:38,Tom Cook,tom.cook@cookingunlimited.com,All health checks in classic applications is automated and needs no manual intervention
+1/10/2016 12:39,Tom Cook,tom.cook@cookingunlimited.com,Acme Webspring applications needs multiple batch processing to deploy the setups
+1/10/2016 12:40,Tom Cook,tom.cook@cookingunlimited.com,The Prototype and testing results observed in UBER client runs looks good and is promising for long run
+1/10/2016 12:41,Tom Cook,tom.cook@cookingunlimited.com,The OFAC implemenation is the biggest accomplishment for AJAX Corporation and AjaxCorp
+1/10/2016 12:42,John Score,johnscore@ajax.com,Problem resolution and RCA's for major issues in UserTestServer & PTE are identified and this effort will smoothen the deliverables of known errors
+1/10/2016 12:43,John Score,johnscore@ajax.com,Why is code pointing to old version for AFRD services. The XML files provided for updation is not refelcting in UserTestServer environment. Does this needs any recyles?
+1/10/2016 12:44,John Score,johnscore@ajax.com,Login is not happening for all QA users  is this because of SSO enabled for this IDS ? Please check for these ID's at high priority
+1/10/2016 12:45,John Score,johnscore@ajax.com,Why there is frequent reccyles and GZ requests for critical UAT1 environment at this point of time? Can't this be taken care in GZ  hours !?
+1/10/2016 12:46,John Score,johnscore@ajax.com,Hello  What is the procedure to remove the ID from LDAP. I have two user ID setup in SIT2 applciations which needs your team help. Please advise.
+1/10/2016 12:47,John Score,johnscore@ajax.com,Hello; Frequent time out errors are frustating!? Is this because of any high load in server at that time or if any server is brought out of rotation. Expecting team to raise a problem ticket and come up with good analysis.
 1/10/2016 12:48,Mike Birdy,birdy.mike@microsoft.com,Hi. Why are you reaching directly to NTSA without app team approvals? With PTE being replica of the prod why are we supposed to do without notifications !? Please explain.
 1/10/2016 12:49,Mike Birdy,birdy.mike@microsoft.com,Awesome job; Expecting a tech flow to be shared with other teams. Everyone in the team should take a cue of this performance and effort.
-1/10/2016 12:50,Mike Birdy,birdy.mike@microsoft.com,BSI Team  Please work with LnT support team to find out why the transactions are not working. This is not our scope of support for UAT environments.
+1/10/2016 12:50,Mike Birdy,birdy.mike@microsoft.com,BSI Team  Please work with AjaxCorp support team to find out why the transactions are not working. This is not our scope of support for UAT environments.
 1/10/2016 12:51,Mike Birdy,birdy.mike@microsoft.com,Ram  can you check why these alerts are still trigerring in UAT21 environment? Why is this taking more time to fix it. Need timeline on this.
-1/10/2016 12:52,Charles Hafers,hafers.charles@citi.com,Team; Your insights really helped to implement ONE-TOUCH deployment; This will be the new trend to raise our bars really high.
-1/10/2016 12:53,Charles Hafers,hafers.charles@citi.com,Please enroll in team citi training for course work ethics and practices
-1/10/2016 12:54,Charles Hafers,hafers.charles@citi.com,Team; In just two month we were able to implement New mobile and Tablet related applications without any issues. We are really coming out great really in all spheres.
-1/10/2016 12:55,Charles Hafers,hafers.charles@citi.com,Team; LATAM Team is happy with our support for all SEPA Related testing. It has been understood that there has been great coordination between support and DEV teams.
-1/10/2016 12:56,Charles Hafers,hafers.charles@citi.com,Infra activities were appended ended to the notification PTE had also been shutdown to support database purge task. Data Purge migration activity is completed now by DBA. 
-1/10/2016 12:57,Charles Hafers,hafers.charles@citi.com,Dear All This is to inform you that the following applications will not be available from 25th Sep 2016 8?:00 AM IST to 26th Sep 2016 8:00 AM IST due to Datacentre related activities.
-1/10/2016 12:58,Charles Hafers,hafers.charles@citi.com,Team.. High priority on UAT1 during India hours. Escalate and make noise if you dont get the needed support.
-1/10/2016 12:59,Morgan Freeman,morgan.freeman@Citi.com,Team  My query was it is just that ENVs are down.  In that circumstance  how are we saying that Deployment is in progress – when I don’t see any open notification.  Correct me if there are some initial/ intermediate notifs – but FINAL to be sent after the environments are brought up.
-1/10/2016 13:00,Morgan Freeman,morgan.freeman@Citi.com,Note: Updated patches were redeployed in UAT31  QC41 Env’s  with CD APP/ CD Session/ BE & BSI Services restart(including daldefcache clear)
-1/10/2016 13:01,Morgan Freeman,morgan.freeman@Citi.com,NOTE:  Sanity test For End to End scenario with Test data independent scripts in progress in PTE.  During the test PTE Team is observing some be services error. They are investigating with prema/venu.
-1/10/2016 13:02,Morgan Freeman,morgan.freeman@Citi.com,STATUS UPDATE: PTE Performance team had completed their Endurance test & reported two issues today.  Aarthy
-1/10/2016 13:03,Morgan Freeman,morgan.freeman@Citi.com,Should this PTE deployment be treated as PLANNED or EMER?  How?  - Joseph
-1/10/2016 13:04,Morgan Freeman,morgan.freeman@Citi.com,Hi Team  NOTE: · UAT21 is shutdown  DM activity is in progress. AFRD wiped out location files would be restored by Sam in UAT31 linux during the weekend. - Diaz
-1/10/2016 13:05,Morgan Freeman,morgan.freeman@Citi.com,Hello Team  Can you guys let us know about the feasability request for parallel processing of PPA jobs in UAT1? If so  let us know the timeline on this.  Sam
-1/10/2016 13:06,Morgan Freeman,morgan.freeman@Citi.com,Hi Team  Can you let us know the status of the job runs for the schedule id's - 20604 & 306450 in UAT21. -  Jacob Oram
-1/10/2016 13:07,Morgan Freeman,morgan.freeman@Citi.com,TSE  Is this something we are lagging !? If so  please provide details and task owners for the same. Need to send report to HM spoc's on this by today.
-1/10/2016 13:08,Morgan Freeman,morgan.freeman@Citi.com,Dev  BO servers are not in good state  Can you check why the services are down? Is this a outage!? So many users are blocked for this week's testing
-1/10/2016 13:09,Morgan Freeman,morgan.freeman@Citi.com,Team  What is the best approach for Campaign Monitor for displaying custom data sets for all geogs for Pepsi client!? Why it is not working in existing timed reports!?
-1/10/2016 13:10,Morgan Freeman,morgan.freeman@Citi.com,How to configure Eclipselink nosql JPA implementation with mongodb & nosql database? Why was this not implemented in Pepsi client? What is the work order process for the same!?
-1/10/2016 13:11,Morgan Freeman,morgan.freeman@Citi.com,Team  Please Send email using the GMail SMTP server from a PHP page!? Currently seeing authentication failure [SMTP: SMTP server does no support authentication (code: 250  response: mx.google.com at your service  [98.117.99.235] SIZE 35651584 8BITMIME STARTTLS ENHANCEDSTATUSCODES PIPELINING)] ?
-1/10/2016 13:12,Morgan Freeman,morgan.freeman@Citi.com,Great work team .the rendering for the webpage in PTE looks good .Plrease consider this mail as sign off
-1/10/2016 13:13,Morgan Freeman,morgan.freeman@Citi.com,Hi All please ensure all the UAT31 services are up and running in Linux .Qc team will start the reqression testion on UAt31
-1/10/2016 13:14,Morgan Freeman,morgan.freeman@Citi.com,Clients are able to do provisioning even after many migrations;s etups between 2003 and 2012 servers. We were able to understand the flow that QC team is working.
-1/10/2016 13:15,Morgan Freeman,morgan.freeman@Citi.com,Team. This is good and neat work done in Abinitio setups. Much appreciated effort; this has not been looked over for years. 
+1/10/2016 12:52,Duddy Hafers,hafers.duddy@daddygo.com,Team; Your insights really helped to implement ONE-TOUCH deployment; This will be the new trend to raise our bars really high.
+1/10/2016 12:53,Duddy Hafers,hafers.duddy@daddygo.com,Please enroll in team AJAX Corporation training for course work ethics and practices
+1/10/2016 12:54,Duddy Hafers,hafers.duddy@daddygo.com,Team; In just two month we were able to implement New mobile and Tablet related applications without any issues. We are really coming out great really in all spheres.
+1/10/2016 12:55,Duddy Hafers,hafers.duddy@daddygo.com,Team; LATAM Team is happy with our support for all SEPA Related testing. It has been understood that there has been great coordination between support and DEV teams.
+1/10/2016 12:56,Duddy Hafers,hafers.duddy@daddygo.com,Infra activities were appended ended to the notification PTE had also been shutdown to support database purge task. Data Purge migration activity is completed now by DBA. 
+1/10/2016 12:57,Duddy Hafers,hafers.duddy@daddygo.com,Dear All This is to inform you that the following applications will not be available from 25th Sep 2016 8?:00 AM IST to 26th Sep 2016 8:00 AM IST due to Datacentre related activities.
+1/10/2016 12:58,Duddy Hafers,hafers.duddy@daddygo.com,Team.. High priority on UAT1 during India hours. Escalate and make noise if you dont get the needed support.
+1/10/2016 12:59,Morgan Freeman,morgan.freeman@stanfordcentral.com,Team  My query was it is just that ENVs are down.  In that circumstance  how are we saying that Deployment is in progress – when I don’t see any open notification.  Correct me if there are some initial/ intermediate notifs – but FINAL to be sent after the environments are brought up.
+1/10/2016 13:00,Morgan Freeman,morgan.freeman@stanfordcentral.com,Note: Updated patches were redeployed in UserTestServer  QC41 Env’s  with CD APP/ CD Session/ BE & BSI Services restart(including daldefcache clear)
+1/10/2016 13:01,Morgan Freeman,morgan.freeman@stanfordcentral.com,NOTE:  Sanity test For End to End scenario with Test data independent scripts in progress in PTE.  During the test PTE Team is observing some be services error. They are investigating with prema/venu.
+1/10/2016 13:02,Morgan Freeman,morgan.freeman@stanfordcentral.com,STATUS UPDATE: PTE Performance team had completed their Endurance test & reported two issues today.  Aarthy
+1/10/2016 13:03,Morgan Freeman,morgan.freeman@stanfordcentral.com,Should this PTE deployment be treated as PLANNED or EMER?  How?  - Joseph
+1/10/2016 13:04,Morgan Freeman,morgan.freeman@stanfordcentral.com,Hi Team  NOTE: · UAT21 is shutdown  DM activity is in progress. AFRD wiped out location files would be restored by Sam in UserTestServer linux during the weekend. - Diaz
+1/10/2016 13:05,Morgan Freeman,morgan.freeman@stanfordcentral.com,Hello Team  Can you guys let us know about the feasability request for parallel processing of PPA jobs in UAT1? If so  let us know the timeline on this.  Sam
+1/10/2016 13:06,Morgan Freeman,morgan.freeman@stanfordcentral.com,Hi Team  Can you let us know the status of the job runs for the schedule id's - 20604 & 306450 in UAT21. -  Jacob Oram
+1/10/2016 13:07,Morgan Freeman,morgan.freeman@stanfordcentral.com,TSE  Is this something we are lagging !? If so  please provide details and task owners for the same. Need to send report to HM spoc's on this by today.
+1/10/2016 13:08,Morgan Freeman,morgan.freeman@stanfordcentral.com,Dev  BO servers are not in good state  Can you check why the services are down? Is this a outage!? So many users are blocked for this week's testing
+1/10/2016 13:09,Morgan Freeman,morgan.freeman@stanfordcentral.com,Team  What is the best approach for Campaign Monitor for displaying custom data sets for all geogs for Pepsi client!? Why it is not working in existing timed reports!?
+1/10/2016 13:10,Morgan Freeman,morgan.freeman@stanfordcentral.com,How to configure Eclipselink nosql JPA implementation with mongodb & nosql database? Why was this not implemented in Pepsi client? What is the work order process for the same!?
+1/10/2016 13:11,Morgan Freeman,morgan.freeman@stanfordcentral.com,Team  Please Send email using the GMail SMTP server from a PHP page!? Currently seeing authentication failure [SMTP: SMTP server does no support authentication (code: 250  response: mx.google.com at your service  [98.117.99.235] SIZE 35651584 8BITMIME STARTTLS ENHANCEDSTATUSCODES PIPELINING)] ?
+1/10/2016 13:12,Morgan Freeman,morgan.freeman@stanfordcentral.com,Great work team .the rendering for the webpage in PTE looks good .Plrease consider this mail as sign off
+1/10/2016 13:13,Morgan Freeman,morgan.freeman@stanfordcentral.com,Hi All please ensure all the UserTestServer services are up and running in Linux .Qc team will start the reqression testion on UserTestServer
+1/10/2016 13:14,Morgan Freeman,morgan.freeman@stanfordcentral.com,Clients are able to do provisioning even after many migrations;s etups between 2003 and 2012 servers. We were able to understand the flow that QC team is working.
+1/10/2016 13:15,Morgan Freeman,morgan.freeman@stanfordcentral.com,Team. This is good and neat work done in Abinitio setups. Much appreciated effort; this has not been looked over for years. 
 1/10/2016 13:16,Cameron Diaz,cameron.diaz@newbank.com,DM team going to perform dryrun on PTE environment .Please bring down all the proc ess running in QC31
-1/10/2016 13:17,Kate Kremlin,Kate.Kremlin@jpmorganchase.com,Team; This is the biggest accomplishment for the effort that we had put in for past 3 years; This will invite new clients to the business and unleash new potential.
-1/10/2016 13:18,Roy Shan,roydebox@bayer.com,Team. Escalating to other teams is really helping to change the things better. This way management is really aware of the issue of the real time problems we have for implementation.
-1/10/2016 13:19,Roy Shan,roydebox@bayer.com,I really appreciate all your help in getting this uber request done. Your team has been right there; helping out wherever and whenever needed for these past few months. Everything has finally come together; and we're ready to open the doors to the production release;I'm looking forward to continuing to work together.
-1/10/2016 13:20,Roy Shan,roydebox@bayer.com,Thank you very much for meeting with Dave on current issues and release plans. I really appreciate your insights; and this well help the team in long run.
-1/10/2016 13:21,Roy Shan,roydebox@bayer.com,Appreciate everything your associates do for the support. Nothing else can quite substitute for a few well-chosen; well-timed effort.
-1/10/2016 13:22,Roy Shan,roydebox@bayer.com,Excellent coordination with all stake holders for this 7.9 code deployment. Much appreciated effort. Overwhelmed with the reponse.
+1/10/2016 13:17,Kate Kremlin,Kate.Kremlin@jpmdeadmau5.com,Team; This is the biggest accomplishment for the effort that we had put in for past 3 years; This will invite new clients to the business and unleash new potential.
+1/10/2016 13:18,Roy Shan,roydebox@deadmau5.com,Team. Escalating to other teams is really helping to change the things better. This way management is really aware of the issue of the real time problems we have for implementation.
+1/10/2016 13:19,Roy Shan,roydebox@deadmau5.com,I really appreciate all your help in getting this uber request done. Your team has been right there; helping out wherever and whenever needed for these past few months. Everything has finally come together; and we're ready to open the doors to the production release;I'm looking forward to continuing to work together.
+1/10/2016 13:20,Roy Shan,roydebox@deadmau5.com,Thank you very much for meeting with Dave on current issues and release plans. I really appreciate your insights; and this well help the team in long run.
+1/10/2016 13:21,Roy Shan,roydebox@deadmau5.com,Appreciate everything your associates do for the support. Nothing else can quite substitute for a few well-chosen; well-timed effort.
+1/10/2016 13:22,Roy Shan,roydebox@deadmau5.com,Excellent coordination with all stake holders for this 7.9 code deployment. Much appreciated effort. Overwhelmed with the reponse.

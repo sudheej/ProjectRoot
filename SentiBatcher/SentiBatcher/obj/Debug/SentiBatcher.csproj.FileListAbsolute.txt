@@ -9,3 +9,12 @@ C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.
 C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.csproj.SentiBatcher.exe.config
 C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.exe
 C:\Users\10616530\Desktop\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.pdb
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.csprojResolveAssemblyReference.cache
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.csproj.SentiBatcher.exe.config
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.exe.config
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.exe
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\bin\Debug\SentiBatcher.pdb
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\bin\Debug\System.Net.Http.Formatting.dll
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\bin\Debug\System.Net.Http.Formatting.xml
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.exe
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\SentiBatcher\SentiBatcher\obj\Debug\SentiBatcher.pdb

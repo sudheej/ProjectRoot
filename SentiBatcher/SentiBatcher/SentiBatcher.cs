@@ -78,7 +78,7 @@ namespace SentiBatcher
             Console.WriteLine(sentimentvalue);
             try
             {
-                string connectionString = "Data Source=INFCHSZA2474;Initial Catalog=ROOT;Integrated Security=True";
+                string connectionString = "Data Source=DESKTOP-IRTJQKT\\SQLEXPRESS;Initial Catalog=ROOT;Integrated Security=True";
                 using (SqlConnection conn =
                     new SqlConnection(connectionString))
                 {
