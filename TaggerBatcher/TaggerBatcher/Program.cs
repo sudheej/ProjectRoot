@@ -29,7 +29,7 @@ namespace TaggerBatcher
         {
             try
             {
-                string connectionString = "Data Source=INFCHSZA2474;Initial Catalog=ROOT;Integrated Security=True";
+                string connectionString = "Data Source=DESKTOP-IRTJQKT\\SQLEXPRESS;Initial Catalog=ROOT;Integrated Security=True";
                 SqlConnection conn = new SqlConnection(connectionString);
                 conn.Open();
                 SqlCommand myCommand = new SqlCommand("select * from dbo.Sentiment", conn);
@@ -41,11 +41,12 @@ namespace TaggerBatcher
                    //Console.WriteLine(myReader["Item"].ToString());
                    //Console.WriteLine(myReader["Amount"].ToString());
                    //Console.WriteLine(myReader["Complete"].ToString());
-                    updateDatabase(Convert.ToInt64(myReader["SentimentTagId"]), myReader["Email"].ToString(), myReader["SentimentText"].ToString());
                     Thread.Sleep(5000);
+                    updateDatabase(Convert.ToInt64(myReader["SentimentTagId"]), myReader["Email"].ToString(), myReader["SentimentText"].ToString());
+                    
 
                 }  // <<- here
-
+                conn.Close();
             }
             catch (SqlException ex)
             {
@@ -99,7 +100,7 @@ namespace TaggerBatcher
 
             try
             {
-                string connectionString = "Data Source=INFCHSZA2474;Initial Catalog=ROOT;Integrated Security=True";
+                string connectionString = "Data Source=DESKTOP-IRTJQKT\\SQLEXPRESS;Initial Catalog=ROOT;Integrated Security=True";
                 using (SqlConnection conn =
                     new SqlConnection(connectionString))
                 {

@@ -9,3 +9,12 @@ C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\bin\Debug\System.Net.
 C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.csproj.TaggerBatcher.exe.config
 C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.exe
 C:\Users\10616530\Desktop\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.pdb
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.exe.config
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.exe
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\bin\Debug\TaggerBatcher.pdb
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\bin\Debug\System.Net.Http.Formatting.dll
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\bin\Debug\System.Net.Http.Formatting.xml
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.csprojResolveAssemblyReference.cache
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.csproj.TaggerBatcher.exe.config
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.exe
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\TaggerBatcher\TaggerBatcher\obj\Debug\TaggerBatcher.pdb
