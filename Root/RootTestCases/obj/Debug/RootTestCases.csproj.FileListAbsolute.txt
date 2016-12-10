@@ -1,4 +1,3 @@
-D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\obj\Debug\RootTestCases.csprojResolveAssemblyReference.cache
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\roslyn\csc.exe
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -53,5 +52,6 @@ D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\Microso
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\EntityFramework.xml
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\obj\Debug\RootTestCases.csprojResolveAssemblyReference.cache
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\obj\Debug\RootTestCases.dll
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\RootTestCases\obj\Debug\RootTestCases.pdb

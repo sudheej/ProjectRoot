@@ -133,6 +133,5 @@ D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\bin\Microsoft.Owin.Securit
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\bin\Microsoft.Owin.Security.Google.xml
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\obj\Debug\Root.csprojResolveAssemblyReference.cache
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\obj\Debug\Root.dll
 D:\Workshop\ROOT-20161121T050816Z\ROOT\Root\Root\Root\obj\Debug\Root.pdb
